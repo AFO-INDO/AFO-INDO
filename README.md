@@ -52,5 +52,5 @@ Saya adalah seorang mahasiswa Sistem Informasi yang tertarik dalam pengembangan 
 <!-- ANIMASI GRAFIK KONTRIBUSI ULAR BERGERAK (Snake Game) -->
 ### 🐍 My Contributions Snake Game
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AFO-DO/AFO-DO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </p>
