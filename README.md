@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 2. Tampilkan Tech Stack (Ikon Teknologi)
+Kamu bisa memamerkan teknologi yang kamu kuasai (seperti CodeIgniter, Laravel, Flutter, React) menggunakan *badges* dari **Shields.io**.
+* **Contoh Code:**
+  ```markdown
+### Tech Stack:
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
